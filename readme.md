@@ -1,6 +1,6 @@
 Customer segmentation is a crucial aspect of marketing and business strategy. This project aims to analyze customer behavior and group them into segments based on their purchasing patterns, total spending, and recency of purchases. The clustering algorithm used for segmentation is KMeans.
 
-**Note:** The interactive 3D scatter plot in the conclusion section does not render on GitHub. You can download the interactive HTML file [here](plots/interactive_plot.html.html)
+**Note:** The interactive 3D scatter plot in the conclusion section does not render on GitHub. You can download the interactive HTML file [here](plots/interactive_plot.html)
 
 ## Contents
 
