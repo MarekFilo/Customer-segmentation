@@ -34,10 +34,10 @@ Customer segmentation is a crucial aspect of marketing and business strategy. Th
     git clone https://github.com/MarekFilo/customer-segmentation.git
     ```
 
-2. Install dependencies (assuming you have Jupyter installed):
+2. Install dependencies:
 
     ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn plotly
+    pip install -r requirements.txt
     ```
 
 3. Open and run the Jupyter notebook:
